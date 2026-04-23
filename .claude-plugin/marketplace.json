@@ -12,8 +12,7 @@
       "description": "Modo de comunicação ultracomprimido em pt-BR. Fala como cavernoso, corta ~75% dos tokens mantendo precisão técnica. Fork pt-BR de caveman.",
       "source": {
         "source": "github",
-        "repo": "alfredogazperi/cavernoso",
-        "branch": "pt-br"
+        "repo": "alfredogazperi/cavernoso"
       },
       "category": "productivity",
       "version": "0.1.0"
