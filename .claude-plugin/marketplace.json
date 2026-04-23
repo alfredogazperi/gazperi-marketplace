@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "gazperi-lab",
-  "description": "Marketplace de plugins do Claude Lab (Alfredo Gazperi). Ferramentas pt-BR para Claude Code.",
+  "name": "gazperi",
+  "description": "Plugins pt-BR para Claude Code, por Alfredo Gazperi.",
   "owner": {
     "name": "Alfredo Gazperi",
     "url": "https://github.com/alfredogazperi"
